@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * Course: CS30S
  * Teacher: Mr. Hardman
  * Lab #1, Program #1
- * Date Last Modified: March 
+ * Date Last Modified: March 13
  */
 public class MyWorld extends World
 {
